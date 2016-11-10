@@ -48,6 +48,11 @@ a:focus, a:hover {
 img {
 	width: 100%;
 }
+.book{
+	max-width: 40%;
+padding-left: 45%;
+padding-top: 10%;
+}
 /*-- //Reset Code --*/
 .banner-agileits{
 	background:url('../images/banner2.jpg') no-repeat 0px 0px;
